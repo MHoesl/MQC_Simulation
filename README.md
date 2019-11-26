@@ -1,6 +1,8 @@
-# SodiumTQ
+# MQC Simulation
 
-Sodium TQ simulates of Phase Cycle Choices for Sodium TQ Signal.
+Multi quantum coherences (MQC) simulation, simulates Phase Cycle Choices for a three-pulses sequence, typically used in Sodium TQ acquisitions in Nucelar Magnetic Rensonance (NRM) and Magnetic Resonance Imaging (MRI).
+
+
 Tested with Matlab_R2017
 
 
