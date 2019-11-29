@@ -21,4 +21,5 @@ The scripts are using the functions:
 Phase Cycle Signal along echo Time and along B0 inhomogeneity can be simulated and the Spectra are obtained after Fourier Transform.
 An exemplary result can be seen in the figure ExampleResult_FleysherSimulation.png
 
+For visualization the following toolbox is nice and the function as.m was used: https://github.com/tsumpf/arrShow
 
